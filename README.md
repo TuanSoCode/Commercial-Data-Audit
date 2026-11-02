@@ -22,7 +22,9 @@ I added up revenue and shipping cost for each of the 20 cities.
 
 
 
-![Revenue and shipping cost by city](images/city_revenue.png)
+![Revenue and shipping cost by city]
+<img width="1190" height="789" alt="1000012497" src="https://github.com/user-attachments/assets/c1744008-e58f-47af-af8d-9a7c32e47386" />
+
 
 
 
@@ -35,12 +37,6 @@ The trap here is a different one. Charlotte shows $4.29M and San Diego $3.96M. I
 In *Infinity War*, Doctor Strange looks through 14,000,605 possible futures to find the one where the heroes win. I borrowed the idea, with a much smaller budget.
 
 I took the `City` column and **dealt it out at random, like shuffling a deck of cards**. Every order kept its real revenue, but got a random city. That is one universe where cities mean nothing. Then I measured how uneven city revenue was in that universe, and repeated the whole thing **500 times**.
-
-
-
-![Real data vs 500 shuffled universes](images/permutation_test.png)
-
-
 
 The results:
 - **500 shuffled universes:** unevenness between `1.52%` and `2.35%`
