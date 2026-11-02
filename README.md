@@ -77,4 +77,4 @@ I offer a **Data Reliability Check**: a short report on your own data covering d
 
 ---
 🙏 **Dataset credit:** "Amazon Sales Dataset" by Rohit Kumar on [Kaggle](https://www.kaggle.com/datasets/rohiteng/amazon-sales-dataset), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
-📓 **Want the details?** The full code, the checks, and the random seeds are in the notebook in this repository: `amazon_audit.ipynb`.
+📓 **Want the details?** The full code, the checks, and the random seeds are in the notebook in this repository: `Auditdataamazon.ipynb`.
