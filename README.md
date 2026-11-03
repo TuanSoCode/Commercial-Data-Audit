@@ -51,7 +51,7 @@ I like that ending, because it tells me the method works even when nobody warns 
 
 **What it does not show:** that every dataset like this is fake. A real business with evenly spread orders could pass this one check too. My confidence came from three checks together (categories, the cost ratio, and this shuffle), and in the end, from the author's own note.
 
-**For a real client:**📈💰💸 a dataset like this can produce confident-looking charts that mean nothing, and decisions built on them can be very costly. That is exactly what an audit is for.
+**For a real client:** 📈💰💸 a dataset like this can produce confident-looking charts that mean nothing, and decisions built on them can be very costly. That is exactly what an audit is for.
 
 ## 🤝 Work with me
 
