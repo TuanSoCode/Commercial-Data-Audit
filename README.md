@@ -21,12 +21,7 @@ But a keyboard is not a shirt. The products were not just oddly grouped, they we
 I added up revenue and shipping cost for each of the 20 cities.
 
 
-
-![Revenue and shipping cost by city]
 <img width="1190" height="789" alt="1000012497" src="https://github.com/user-attachments/assets/c1744008-e58f-47af-af8d-9a7c32e47386" />
-
-
-
 
 Every city landed around **$4.2 million** in revenue and about **$33,000** in shipping. The shipping-to-revenue ratio sat between **0.80% and 0.82%** in all 20 cities. Real markets are lumpy: some cities are bigger, some customers cost more to reach. This looked like a table with a coat of paint.
 
@@ -55,6 +50,8 @@ I like that ending, because it tells me the method works even when nobody warns 
 **What the test shows:** differences between cities are no bigger than random assignment would produce. Asking *"why is San Diego underperforming?"* has no real answer here.
 
 **What it does not show:** that every dataset like this is fake. A real business with evenly spread orders could pass this one check too. My confidence came from three checks together (categories, the cost ratio, and this shuffle), and in the end, from the author's own note.
+
+**For a real client:**📈💰💸 a dataset like this can produce confident-looking charts that mean nothing, and decisions built on them can be very costly. That is exactly what an audit is for.
 
 ## 🤝 Work with me
 
